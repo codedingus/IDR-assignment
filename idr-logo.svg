@@ -1,0 +1,19 @@
+<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Cube -->
+<g transform="translate(10,10)">
+<polygon points="40,0 80,20 40,40 0,20" fill="#FF6A00"></polygon>
+<polygon points="0,20 40,40 40,80 0,60" fill="#111111"></polygon>
+<polygon points="40,40 80,20 80,60 40,80" fill="#FF8C3A"></polygon>
+</g>
+
+<!-- Text -->
+<text x="120" y="48" font-family="Inter, Arial" font-size="26" fill="#FFFFFF" font-weight="600" letter-spacing="0.5">
+Institute of
+</text>
+
+<text x="120" y="82" font-family="Inter, Arial" font-size="32" fill="#FF6A00" font-weight="700" letter-spacing="0.5">
+Digital Risk
+</text>
+
+</svg>

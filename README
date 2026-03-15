@@ -1,0 +1,48 @@
+Institute of Digital Risk – Assignment Submission
+
+Project Overview
+This project is a responsive homepage design and brand concept for the Institute of Digital Risk (IDR), an industry-led training and deployment institute focused on digital, cyber, and AI risk.
+
+The goal was to create a clean, modern interface that reflects the institute’s mission of training and deploying professionals for high-consequence digital risk environments.
+
+Logo Design
+The logo uses a cube-inspired geometric icon to represent structure, resilience, and risk management.  
+The color palette follows the assignment requirement of orange, white, and black, representing innovation, trust, and technological focus.
+
+Two logo variants are supported:
+- Icon + text logo
+- Scalable SVG version suitable for small sizes
+
+Homepage Features
+• Hero section with clear mission statement  
+• Sticky navigation bar with smooth scrolling  
+• About section explaining the institute’s role  
+• Three service pillars (Academy, Innovation, Advisory)  
+• Train → Hire → Innovate → Deploy pipeline model  
+• Community section describing target audience  
+• Contact form for registering interest  
+
+Technical Implementation
+The website is built using:
+- HTML5 (semantic structure)
+- CSS3 (Flexbox and Grid for responsive layout)
+- Vanilla JavaScript for interactivity
+
+Key features include:
+• Responsive design for desktop and mobile
+• Smooth scrolling navigation
+• Interactive service cards with hover effects
+• Mobile navigation menu
+• Accessible form layout
+
+How to Run the Project
+1. Extract the ZIP file.
+2. Open the project folder.
+3. Open `index.html` in any modern web browser.
+
+No additional setup or dependencies are required.
+
+Designed and developed as part of an internship selection assignment.
+
+Author
+Anuj Bhandare
